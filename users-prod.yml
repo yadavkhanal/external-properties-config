@@ -5,7 +5,7 @@ users:
   message: "users microservice Prod APIs"
   contactDetails:
     name: "David Copperfield - Prod Lead"
-    email: "{cipher}2ecf22c6cbb4ca1290578c919fcc421906bec93fe39971d369028c5beb420756b8476f1c98862b739b10cd562e8bf98d"
+    email: "{cipher}3fe44770a961d4dbf8ed23bfdeed32f393a105d7cc414cd53a7a588ba8ce0dbb248cd566f2fdfcc4506d51e720029e4a"
   onCallSupport:
     -(666) 392-4829
     -(236) 203-0384
