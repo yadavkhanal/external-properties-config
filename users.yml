@@ -1,0 +1,11 @@
+build:
+    version: "3.0"
+
+users:
+  message: "users microservice dev local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "doej@northern.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 523-1345

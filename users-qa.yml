@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+users:
+  message: "users microservice QA APIs"
+  contactDetails:
+    name: "Joan Smith - QA Lead"
+    email: "smithj@northern.com"
+  onCallSupport:
+    -(188) 732-3765
+    -(188) 732-8371
