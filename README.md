@@ -1,7 +1,7 @@
 **External Properties Configuration**
 
-**This repository serves as a supplementary project to:  
-**[**https://github.com/yadavkhanal/gateway_and_configserver**](https://github.com/yadavkhanal/gateway_and_configserver)
+This repository serves as a supplementary project to:  
+[**https://github.com/yadavkhanal/gateway_and_configserver**](https://github.com/yadavkhanal/gateway_and_configserver)
 
 **It demonstrates how externalized properties stored in a repository can be dynamically fetched by a Spring Cloud Config Server at runtime using GitHub Actions.**
 
